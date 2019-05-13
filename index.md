@@ -1,4 +1,4 @@
-## About me
+# About me
 
-## Applications
+# Applications
 - [Audio Visualizer](./Apps/Audio-Visualizer.md)
