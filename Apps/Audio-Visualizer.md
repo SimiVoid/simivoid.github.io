@@ -1,6 +1,8 @@
 # Audio Visualizer
 
-![Image](./Apps/Audio-Visualizer/img1.png)
+![Image](./Audio-Visualizer/img1.png)
 
-# Code
+## About
+
+## Code
 
