@@ -11,4 +11,4 @@ Technologies used in this project:
 
 ## Code
 
-Code: [https://github.com/simivoid/Audio-Visualizer.git](https://github.com/simivoid/Audio-Visualizer.git)
+[https://github.com/simivoid/Audio-Visualizer.git](https://github.com/simivoid/Audio-Visualizer.git)
