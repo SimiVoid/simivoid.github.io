@@ -1,6 +1,6 @@
 # Miss a Falling Blocks
 
-![Image](./Miss-a-Fallings-Blocks/img1.jpg)
+![Image](./Miss-a-Fallings-Blocks/img1.png)
 
 Miss a falling blocks is an android game made on Unity Engine.
 
