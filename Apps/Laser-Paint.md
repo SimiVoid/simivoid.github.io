@@ -2,7 +2,9 @@
 
 ![Image](./Laser-Paint/img1.png)
 
-Laser Paint is application to draw with laser
+Laser Paint is next generation of graphics application.
+
+This app is make in C++ with OpenCV.
 
 ## Code
 
