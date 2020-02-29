@@ -1,6 +1,6 @@
 # About me
 
-I'm 18 years old programmer. I know a few programming languages, such as: C++, C#. In C# I'm using primarily WPF, WinForms.
+I'm 18 years old programmer and I have learnt programming for 6 years. Primaly I use C++ and C# but I know more programming languagues.
 
 [GitHub](https://github.com/SimiVoid)
 
