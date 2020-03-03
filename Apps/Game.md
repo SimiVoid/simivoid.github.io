@@ -17,4 +17,4 @@ Easy Game (Game) is a simple game created in 2 hours. Goal is go to finish on si
 
 ## Code
 
-[https://github.com/simivoid/Game](https://github.com/simivoid/Game)
+[https://github.com/simivoid/Game](https://github.com/simivoid/Game)/Apps/Game/img1.png
