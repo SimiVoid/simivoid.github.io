@@ -1,6 +1,3 @@
-<style>
-    .theBlackBackground {background-color:#000;color: red;}
-</style>
 
 # About me
 
