@@ -1,3 +1,7 @@
+<style>
+    .theBlackBackground {background-color:#000;color: red;}
+</style>
+
 # About me
 
 I'm 18 years old programmer and I have learnt programming for 6 years. Primaly I use C++ and C# but I know more programming languages.
