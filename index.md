@@ -1,6 +1,6 @@
 # About me
 
-I'm 18 years old programmer and I have learnt programming for 6 years. Primaly I use C++ and C# but I know more programming languagues.
+I'm 18 years old programmer and I have learnt programming for 6 years. Primaly I use C++ and C# but I know more programming languages.
 
 [GitHub](https://github.com/SimiVoid)
 
