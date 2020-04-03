@@ -11,7 +11,7 @@ Technologies used in this project:
 
 ## Dowload
 
-[Audio Visualizer](./Audio-Visualizer/Audio-Visualizer.zip)
+[Audio-Visualizer.zip](./Audio-Visualizer/Audio-Visualizer.zip)
 
 ## Code
 
