@@ -9,6 +9,10 @@ Technologies used in this project:
 - WPF
 - NAudio with FFT processing
 
+## Dowload
+
+[Audio Visualizer](./Audio-Visualizer/Audio-Visualizer.zip)
+
 ## Code
 
 [https://github.com/simivoid/Audio-Visualizer](https://github.com/simivoid/Audio-Visualizer)
