@@ -1,8 +1,7 @@
 
 # About me
 
-I'm 18 years old programmer and I have learnt programming for 6 years. Primaly I use C++ and C# but I know more programming languages.
-
+I'm 19 years old programmer and I have learnt programming for 7 years. Primaly I use C++, C# and Golang but I know more programming languages.
 # Projects
 - [Audio Visualizer](./Apps/Audio-Visualizer.md)
 - [Miss a falling blocks](./Apps/Miss-a-falling-blocks.md)
